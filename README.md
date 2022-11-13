@@ -1,10 +1,10 @@
-# Typescript Solidity Dev Starter Kit
+# How to swap ERC20 Tokens using UNI/Pancake Swap Contracts
+### Swap Two Erc20 coins with Uniswap or any Uniswap Compatible router
 
-_Updated to use Hardhat!_
+## View Video
+https://www.youtube.com/watch?v=OZCiz8Znbo8
 
-This is a starter kit for developing, testing, and deploying smart contracts with a full Typescript environment. This stack uses [Hardhat](https://hardhat.org) as the platform layer to orchestrate all the tasks. [Ethers](https://docs.ethers.io/v5/) is used for all Ethereum interactions and testing.
 
-[Blog Post](https://medium.com/@rahulsethuram/the-new-solidity-dev-stack-buidler-ethers-waffle-typescript-tutorial-f07917de48ae)
 
 ## Using this Project
 
